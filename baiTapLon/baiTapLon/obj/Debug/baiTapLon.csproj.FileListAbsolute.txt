@@ -1,0 +1,11 @@
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\bin\Debug\baiTapLon.exe.config
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\bin\Debug\baiTapLon.exe
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\bin\Debug\baiTapLon.pdb
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.csproj.AssemblyReference.cache
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.Form1.resources
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.Properties.Resources.resources
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.csproj.GenerateResource.cache
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.csproj.CoreCompileInputs.cache
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.exe
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.pdb
+C:\64KTPM3\C_Sharp\baiTapLon\baiTapLon\obj\Debug\baiTapLon.TimKiem.resources
